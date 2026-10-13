@@ -1,0 +1,16 @@
+# Competition data (download from Kaggle)
+data/
+
+# Outputs
+submissions/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
